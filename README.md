@@ -1,4 +1,4 @@
-# vue-cli
+# 参照Vue官方文档学习Vue
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
